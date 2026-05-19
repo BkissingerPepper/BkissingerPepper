@@ -14,6 +14,18 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
+## STIGS
+-**[WN11-AU-000500](https://github.com/BkissingerPepper/BkissingerPepper/commit/fda5257ec997a55f05630138e22ee01b25952526)**
+-**[WN11-AC-000005](https://github.com/BkissingerPepper/STIGS/commit/fc92c6c74d5a5267bc6d7029f73e18b6f5080643)**
+-**[WN11-AC-000010](https://github.com/BkissingerPepper/STIGS/commit/f4f28c36bfa763e1d5f144607b54d9687782fdcb)**
+-**[WN11-AC-000015](https://github.com/BkissingerPepper/STIGS/commit/7ae807fcf1211756c50521915efa18a8437d90b9)**
+-**[WN11-UR-000015](https://github.com/BkissingerPepper/STIGS/commit/890a07431fbcc42606bfc67861ddb255368df272)**
+-**[WN11-CC-000020](https://github.com/BkissingerPepper/STIGS/commit/389ad7d5606a5293d7ecc6743a68fe70da38eabe)**
+-**[WN11-CC-000025](https://github.com/BkissingerPepper/STIGS/commit/eba28d7cd486e17bf344ae194c18762312832aab)**
+-**[WN11-SO-000160](https://github.com/BkissingerPepper/STIGS/commit/c181ec7390d93853e383a9905ce7a0121e5f9adc)**
+-**[WN11-AU-000505](https://github.com/BkissingerPepper/STIGS/commit/73f44ed81cf19ffb9c543c485ffbb8556a30b669)**
+-**[WN11-AU-000510](https://github.com/BkissingerPepper/STIGS/commit/dc9891f1e5c352cfddfa8abca3d26b194cfa808c)**
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="brandon_ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
